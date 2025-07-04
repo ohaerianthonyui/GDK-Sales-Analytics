@@ -1,6 +1,9 @@
 # GDK-Sales-Analytics
 
 
+
+
+
 📊 Executive Summary
 In this report, we analyze Sales, Profit and Orders performance across various dimensions to uncover trends, patterns, and actionable insights. Our goal is to understand what drives our business performance and where improvements can be made.
 
@@ -131,6 +134,12 @@ Promote high-margin items like Copiers, and review performance of low-profit ite
 
 ✅ Shipping Strategy:
 Enhance delivery options for Same Day shipping and consider bundled offers to increase uptake.
+
+
+
+
+![Screenshot_4-7-2025_15373_](https://github.com/user-attachments/assets/343ed6d6-6f0e-4c22-9da0-84537218136a)
+
 
 
 
