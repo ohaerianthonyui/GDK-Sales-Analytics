@@ -5,9 +5,13 @@
 
 
 📊 Executive Summary
+
+
 In this report, we analyze Sales, Profit and Orders performance across various dimensions to uncover trends, patterns, and actionable insights. Our goal is to understand what drives our business performance and where improvements can be made.
 
 🧾 Key Metrics Overview
+
+
 Highlights:
 
 Total Sales: $2.3m
